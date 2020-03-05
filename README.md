@@ -2,7 +2,7 @@
 Memory game
 
 Some explication about the files:
-<<<<<<< HEAD
+
 In the Projeto folder was a link to a site with fonts (DaFont) and the Leonardo folder.
 
 In the Leonardo folder are:
