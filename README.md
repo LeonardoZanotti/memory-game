@@ -2,6 +2,7 @@
 Memory game
 
 Some explication about the files:
+<<<<<<< HEAD
 In the Projeto folder was a link to a site with fonts (DaFont) and the Leonardo folder.
 
 In the Leonardo folder are:
@@ -14,3 +15,5 @@ The Slides folder, it has some material of study about the game production.
 The Scripts folder has the code about cards, game over and the game control.
 The Fonts folder, where have some fonts of the game.
 The Scene folder, it has the Unity files of the scenes of the game.
+
+Leonardo Zanotti
