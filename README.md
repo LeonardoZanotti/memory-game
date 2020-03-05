@@ -16,4 +16,11 @@ The Scripts folder has the code about cards, game over and the game control.
 The Fonts folder, where have some fonts of the game.
 The Scene folder, it has the Unity files of the scenes of the game.
 
+
 Leonardo Zanotti
+
+Memory game #1.0 -
+	First Version
+
+Memory Game #1.1 -
+	Some files aren't necessary, so i delete him of the game
